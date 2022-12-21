@@ -27,4 +27,4 @@ def pascal_triangle(n):
         arr.append(new_arr)
         prev_arr = new_arr
 
-    return 
+    return arr
